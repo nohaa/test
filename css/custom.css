@@ -313,7 +313,7 @@ header .carousel-indicators li.active{background-color:var(--mainColor)}
 	margin-top:20px;
 }
 .clients img{
-	width:180px;
+	width:126px;
 	height:90px;	 
 }
 .clients  .happyClient .row > div{padding-left:40px}
